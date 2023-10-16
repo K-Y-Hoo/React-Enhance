@@ -1,4 +1,4 @@
-- fetch함수를 사용하여 REST API 데이터를 가져온다.
+- fetch함수를 사용하여 API 데이터를 가져온다.
 - A 컴포넌트를 일체형으로 생성한다.
 - B 컴포넌트를 여러 컴포넌트로 분리하여 생성한다.
 - input 요소를 생성하고 내부의 value 값이 변경될 때 A 컴포넌트와 B 컴포넌트의 성능 차이를 chrome 확장 프로그램인 React Developer Tools의 profiler를 통해 비교한다.
